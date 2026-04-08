@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: maxam2017/productive-box@master
-        with:
+        env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
-          TIMEZONE: America/New_York 
+          TIMEZONE: America/New_York
