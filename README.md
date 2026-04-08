@@ -1,2 +1,2 @@
 ## GitHub Contribution Snake
-![snake github contribution](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![snake github contribution](https://raw.githubusercontent.com/selma0817/selma0817/output/github-contribution-grid-snake.svg)
